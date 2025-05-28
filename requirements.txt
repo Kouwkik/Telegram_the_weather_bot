@@ -1,0 +1,3 @@
+aiogram==3.x         # Для работы с Telegram
+python-dotenv==1.0.0 # Чтение .env
+aiohttp==3.9.0       # HTTP-запросы к API
